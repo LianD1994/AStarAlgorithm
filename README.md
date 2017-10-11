@@ -1,7 +1,7 @@
 # AStarAlgorithm
 A* search algorithm &amp; its variances 
 
-## Running the project
+## Running the application
 Create a JavaFX project in your IDE then replace the src folder with the one on this repo.
 
 ## Project Description
