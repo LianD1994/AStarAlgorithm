@@ -1,4 +1,4 @@
-# AStarAlgorithm
+# A* Algorithm
 A* search algorithm &amp; its variances 
 
 ## Running the application
